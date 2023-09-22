@@ -5,10 +5,10 @@ _(Inserta un enlace a una imagen o GIF de tu aplicación para que los visitantes
 
 ## Descripción
 
-![Imagen 1](./imgsProject/exampleOne.jpg)
-![Imagen 2](./imgsProject/ExampleTwo.jpg)
-![Imagen 3](./imgsProject/ExampleTreh.jpg)
-![Imagen 4](./imgsProject/ExampleFour.jpg)
+<img src="./imgsProject/exampleOne.jpg" alt="Imagen 1" width="300"/>
+<img src="./imgsProject/ExampleTwo.jpg" alt="Imagen 2" width="300"/>
+<img src="./imgsProject/ExampleThree.jpg" alt="Imagen 3" width="300"/>
+<img src="./imgsProject/ExampleFour.jpg" alt="Imagen 4" width="300"/>
 
 El Administrador de Tareas es una aplicación web diseñada para ayudar a los usuarios a gestionar y organizar sus tareas pendientes. La plataforma es intuitiva y fácil de usar, permitiendo a los usuarios agregar, eliminar, buscar y marcar tareas como completadas con facilidad.
 
