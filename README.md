@@ -9,9 +9,9 @@
   </tr>
   <tr>
     <td align="center">Vista principal</td>
-    <td align="center">Agregar tarea</td>
     <td align="center">Tareas completadas</td>
-    <td align="center">Búsqueda de tarea</td>
+    <td align="center">Tareas eliminada</td>
+    <td align="center">Agregar tarea</td>
   </tr>
 </table>
 
