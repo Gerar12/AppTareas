@@ -5,9 +5,12 @@ _(Inserta un enlace a una imagen o GIF de tu aplicación para que los visitantes
 
 ## Descripción
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
     <img src="./imgsProject/exampleOne.jpg" alt="Imagen 1" width="200" style="margin-right: 10px;"/>
-    <img src="./imgsProject/ExampleTwo.jpg" alt="Imagen 2" width="200" style="margin-right: 10px;"/>
+    <img src="./imgsProject/ExampleTwo.jpg" alt="Imagen 2" width="200"/>
+</div>
+<br>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
     <img src="./imgsProject/ExampleTreh.jpg" alt="Imagen 3" width="200" style="margin-right: 10px;"/>
     <img src="./imgsProject/ExampleFour.jpg" alt="Imagen 4" width="200"/>
 </div>
