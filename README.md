@@ -1,5 +1,7 @@
 # Administrador de Tareas Web
 
+**[Ver Demo en Vivo](https://stellar-biscuit-3a2a8d.netlify.app/)**
+
 <table>
   <tr>
     <td><img src="./imgsProject/exampleOne.jpg" alt="Imagen 1" width="200"/></td>
@@ -9,9 +11,9 @@
   </tr>
   <tr>
     <td align="center">Vista principal</td>
-    <td align="center">Tareas completadas</td>
-    <td align="center">Tareas eliminada</td>
     <td align="center">Agregar tarea</td>
+    <td align="center">Tareas completadas</td>
+    <td align="center">Búsqueda de tarea</td>
   </tr>
 </table>
 
